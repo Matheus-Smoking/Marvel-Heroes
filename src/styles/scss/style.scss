@@ -1,0 +1,14 @@
+
+.nav-hero{
+  position: relative;
+  &__menu-hero{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+  }
+}
+.img-hero{
+  width:100%;
+}
